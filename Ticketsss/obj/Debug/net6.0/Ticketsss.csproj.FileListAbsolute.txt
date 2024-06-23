@@ -1,0 +1,8 @@
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.AssemblyInfo.cs
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.RazorAssemblyInfo.cache
+C:\Users\IT\Desktop\Back end\Ticketsss\Ticketsss\obj\Debug\net6.0\Ticketsss.RazorAssemblyInfo.cs
